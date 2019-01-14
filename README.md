@@ -1,2 +1,2 @@
 # appExpress
-a demo for express application
+a demo for node Express application

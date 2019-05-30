@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "refreshVSToken" : "vsts-npm-auth -config .npmrc",
     "build": "echo 'good to go'"
   },
   "repository": {

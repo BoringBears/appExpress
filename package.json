@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "refreshVSToken" : "vsts-npm-auth -config .npmrc",
-    "build": "echo 'good to go';exit 1"
+    "build": "echo 'good to go'"
   },
   "repository": {
     "type": "git",
